@@ -1,0 +1,11 @@
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/julienschmidt/httprouter"
+
+[[constraint]]
+  branch = "master"
+  name = "github.com/lib/pq"
+
+[metadata.heroku]
+  root-package = "github.com/tomkoker/go-react"
