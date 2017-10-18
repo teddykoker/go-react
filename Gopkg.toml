@@ -9,3 +9,4 @@
 
 [metadata.heroku]
   root-package = "github.com/tomkoker/go-react"
+  go-version = "go1.8.3"
