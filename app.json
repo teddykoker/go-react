@@ -1,6 +1,0 @@
-{
-    "name": "Go-React",
-    "description": "Simple structure for a full stack web application using React and Golang",
-    "repository": "https://github.com/tomkoker/go-react",
-    "keywords": ["go", "react"]
-}
